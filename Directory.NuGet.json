@@ -12901,6 +12901,21 @@
         "Name": "UpdateManagerLibrary\\UpdateManagerLibrary.csproj",
         "Project": "Net4x.UpdateManagerLibrary",
         "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Update.Library",
+        "Project": "UpdateLibrary\\Update.Library.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Update.Commons",
+        "Project": "UpdateCommons\\Update.Commons.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Update.Manager",
+        "Project": "UpdateManagerLibrary\\Update.Manager.csproj",
+        "PackageReferences": null
       }
     ]
   },
@@ -24603,6 +24618,52 @@
       {
         "Name": "HTMLtoDOCX.Converter\\HTMLtoDOCX.Converter.csproj",
         "Project": "Net4x.HTMLtoDOCX.Converter",
+        "PackageReferences": null
+      }
+    ]
+  },
+  {
+    "Solution": {
+      "Path": "D:\\CommonLibrary\\Net4x.WshRuntime\\Net4x.WshRuntime.sln",
+      "Version": "Net4xWshRuntimeVersion"
+    },
+    "NuGetPackages": [
+      {
+        "Name": "Net4x.WshRuntime",
+        "Project": "Net4x.WshRuntime\\Net4x.WshRuntime.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "WshRuntime.Tests\\WshRuntime.Tests.csproj",
+        "Project": "WshRuntime.Tests",
+        "PackageReferences": null
+      }
+    ]
+  },
+  {
+    "Solution": {
+      "Path": "D:\\CommonLibrary\\Net4x.MsHtml\\Net4x.MSHTML.sln",
+      "Version": "Net4xMSHTMLVersion"
+    },
+    "NuGetPackages": [
+      {
+        "Name": "Net4x.Net35.MSHTML",
+        "Project": "Net4x.MSHTML.net35\\Net4x.Net35.MSHTML.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Net40.MSHTML",
+        "Project": "Net4x.MSHTML.net40\\Net4x.Net40.MSHTML.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Net45.MSHTML",
+        "Project": "Net4x.MSHTML.net45\\Net4x.Net45.MSHTML.csproj",
+        "PackageReferences": null
+      },
+      {
+        "Name": "Net4x.Netcoreapp.MSHTML",
+        "Project": "Net4x.MSHTML.netcoreapp\\Net4x.Netcoreapp.MSHTML.csproj",
         "PackageReferences": null
       }
     ]

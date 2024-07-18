@@ -183,5 +183,6 @@
         <MdiInActiveXVersion>2.2.0</MdiInActiveXVersion>
         <HostProcessLibraryVersion>1.0.0</HostProcessLibraryVersion>
         <DocxToHTMLVersion>1.0.0</DocxToHTMLVersion>
+        <Net4xWshRuntimeVersion>1.0.0</Net4xWshRuntimeVersion>
     </PropertyGroup>
 </Project>
